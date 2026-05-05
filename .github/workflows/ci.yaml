@@ -23,6 +23,6 @@ jobs:
           context: .
           push: true
           tags: |
-            birazn/applinda:v2.2
-            birazn/applinda:latest
+            colavite/vaiCorinthians:v2.2
+            colavite/vaiCorinthians:latest
             
